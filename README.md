@@ -1,4 +1,4 @@
-<img width="1331" height="809" alt="1_Executive_Overview" src="https://github.com/user-attachments/assets/97256ec7-0c91-48e1-b8cc-a2e7322d676e" /># Amazon India Sales Dashboard | Power BI
+# Amazon India Sales Dashboard | Power BI
 
 ## Overview
 Interactive 2-page Power BI dashboard analysing ₹1.12bn in sales across 15,000 orders and 28 Indian states.
