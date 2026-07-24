@@ -36,6 +36,6 @@ Interactive 2-page Power BI dashboard analysing ₹1.12bn in sales across 15,000
 ### Payment Behaviour
 - Near-equal payment split: Cash on Delivery 26%, Credit Card 25%, Debit Card 25%, UPI 24%
 - No single payment method dominates — suggesting broad digital payment adoption
-- 
+
 ## Tools Used
 Power BI — Map Visual, Scatter Plot, KPI Cards, Bar Charts, Trend Analysis
